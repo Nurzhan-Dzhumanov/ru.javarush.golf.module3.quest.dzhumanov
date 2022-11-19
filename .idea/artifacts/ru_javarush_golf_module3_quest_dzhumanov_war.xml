@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ru.javarush.golf.module3.quest.dzhumanov:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ru.javarush.golf.module3.quest.dzhumanov</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ru-javarush-golf-module3-quest-dzhumanov-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ru.javarush.golf.module3.quest.dzhumanov:war exploded" />
+    </root>
+  </artifact>
+</component>
